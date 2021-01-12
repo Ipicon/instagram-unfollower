@@ -1,6 +1,6 @@
 # Instagram Unfollower
 
-Instafram Unfollower A simple script which unfollows on Instagram all who dosen't follow you back. (Can add excluded users)
+Instafram Unfollower A simple script which unfollows on Instagram all who doesn't't follow you back. (Can add excluded users)
 
 ## Setup
 
